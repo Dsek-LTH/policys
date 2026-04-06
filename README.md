@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Flyttat till [Dsek-LTH/styrdokument](https://github.com/Dsek-LTH/styrdokument)
+
 # Policys
 
 Detta är D-sektionen inom TLTHs policys. Under "Releases" finns alla versioner av policys sedan HTM1 2020. Om man följer commit-meddelanden finns mer detaljerad historik.
